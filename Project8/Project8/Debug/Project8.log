@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\olive\source\repos\project8\project8\source.cpp(41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Project8.vcxproj -> C:\Users\olive\source\repos\Project8\Debug\Project8.exe
+  Project8.vcxproj -> C:\Users\olive\source\repos\Project8\Debug\Project8.pdb (Partial PDB)
